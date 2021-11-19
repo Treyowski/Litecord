@@ -8,12 +8,9 @@
 
 
 
-
 **_Based od website:_**
 
-
 ![Based on:](https://lh3.googleusercontent.com/proxy/WWfO5LFDQe1qdsgDjYdtMXtnJuS8azIPGqxdxmb1XLiA-6A3WGITil3QEaCmpxHRWefysxkQCj6alkU4DqPJizUrJ0jNN8a8ycWaDqa8CS6hWg)
-
 
 
 
@@ -25,7 +22,6 @@ _Litecord is a lightweight client for Discord. It saves cellular data, automatic
 **Programming language:** _Visual Basic .NET_
 
 **Libraries used:** _discord-rpc.dll; CefSharp_
-
 
 
 
