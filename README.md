@@ -26,3 +26,7 @@ _Litecord is a lightweight client for Discord. It saves cellular data, automatic
 
 **Libraries used:** _discord-rpc.dll; CefSharp_
 
+
+
+
+**First Version and Release Date:** Litecord Pre-Alpha Version 1.41; 20.11.2021
