@@ -4,7 +4,7 @@
 ![Used technology:](https://github.com/cefsharp/CefSharp/raw/master/logo.png)
 
 **_Based od website:_**
-![Based on:](https://s.cdaction.pl/obrazki/discord-logo_17bnv.png)
+![Based on:](https://lh3.googleusercontent.com/proxy/WWfO5LFDQe1qdsgDjYdtMXtnJuS8azIPGqxdxmb1XLiA-6A3WGITil3QEaCmpxHRWefysxkQCj6alkU4DqPJizUrJ0jNN8a8ycWaDqa8CS6hWg)
 
 
 
