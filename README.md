@@ -1,11 +1,12 @@
 # Litecord
 
-Litecord is a lightweight client for Discord. It saves cellular data, automatically reduces cellular data usage, uses less CPU and RAM, integrates with anti-virus software to scan downloaded attachments from Discord. Apart from this there are automatic updates, Discord Rich Presence status and many other options. 
+![Used technology:](https://github.com/cefsharp/CefSharp/raw/master/logo.png)
 
-Based on: Chromium web engine, discord.com website
+_Litecord is a lightweight client for Discord. It saves cellular data, automatically reduces cellular data usage, uses less CPU and RAM, integrates with anti-virus software to scan downloaded attachments from Discord. Apart from this there are automatic updates, Discord Rich Presence status and many other options. _
 
-Programming language: Visual Basic .NET
+**Based on:** _Chromium Web Engine (CefSharp), Discord.com website_
 
-Libraries used: discord-rpc.dll; CefSharp
+**Programming language:** _Visual Basic .NET_
 
------------------------------ IN PROGRESS ----------------------------
+**Libraries used:** _discord-rpc.dll; CefSharp_
+
