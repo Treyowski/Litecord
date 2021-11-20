@@ -20,4 +20,4 @@ _Litecord is a lightweight client for Discord. It saves cellular data, automatic
 
 
 
-**First Version and Release Date:** Litecord Pre-Alpha Version 1.41; 20.11.2021
+**First Version and Release Date:** Litecord Pre-Alpha Version 1.41; No Release Date
