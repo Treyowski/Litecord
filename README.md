@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________________________________________________________________________________
 
-_Litecord is a lightweight client for Discord. It saves cellular data, automatically reduces cellular data usage, uses less CPU and RAM, integrates with anti-virus    software to scan downloaded attachments from Discord. Apart from this there are automatic updates, Discord Rich Presence status and many other options. _
+Litecord is a lightweight client for Discord. It saves cellular data, automatically reduces cellular data usage, uses less CPU and RAM, integrates with anti-virus    software to scan downloaded attachments from Discord. Apart from this there are automatic updates, Discord Rich Presence status and many other options. 
 
 **Based on:** _Chromium Web Engine (CefSharp); Discord.com website_
 
@@ -20,4 +20,4 @@ _Litecord is a lightweight client for Discord. It saves cellular data, automatic
 
 
 
-**First Version and Release Date:** Litecord Pre-Alpha Version 1.41; No Release Date
+**First Version and Release Date:** Litecord Pre-Alpha Version 1.01; 10.12.2021
