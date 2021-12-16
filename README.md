@@ -14,7 +14,7 @@ Litecord is a lightweight client for Discord. It saves cellular data, automatica
 
 **Based on:** _Chromium Web Engine (CefSharp); Discord.com website_
 
-**Programming language:** _Visual Basic .NET_
+**Programming language:** _Visual Basic .NET -> C# in future_
 
 **Libraries used:** _discord-rpc.dll; CefSharp_
 
