@@ -4,7 +4,7 @@ ________________________________________________________________________________
 
 ![Used technology:](https://github.com/cefsharp/CefSharp/raw/master/logo.png)
 
-**_Based od website:_**
+**_Based on website:_**
 
 ![Based on:](https://dodo.ac/np/images/thumb/1/18/Discord_icon.png/150px-Discord_icon.png)
 
