@@ -1,4 +1,4 @@
-# Litecord Project cancelled indefinitely
+# Litecord ||Project cancelled indefinitely||
 ___________________________________________________________________________________________________________________________________________________________
 **_Used technology:_**
 
@@ -20,4 +20,4 @@ Litecord is a lightweight client for Discord. It saves cellular data, automatica
 
 
 
-**First Version and Release Date:** Litecord Pre-Alpha Version 1.01; 16.5.2022 (or earlier)
+**First Version and Release Date:** Litecord Pre-Alpha Version 1.01; Release Date: --.--.---- 
